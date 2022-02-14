@@ -75,18 +75,18 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nordine94&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="nordine94" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nordine94&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="nordine94" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="nordine94" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nordine94&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="nordine94" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
