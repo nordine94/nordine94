@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nordine Khoudou</h1>
-<h3 align="center">Student at GEFOR, PARIS🌟.</h3>
+<h3 align="center">Student at EFREI, PARIS🌟.</h3>
 
 <br>
 
